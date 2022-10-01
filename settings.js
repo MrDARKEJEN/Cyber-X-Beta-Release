@@ -38,8 +38,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['94789365025'] //ur owner number
 global.ownername = "MR.DARK EJEN" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.ytname = "YT: DARKEJEN Arcade" //ur yt chanel name
+global.socialm = "GitHub: darkejenteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -48,7 +48,7 @@ global.ownertag = '94789365025' //ur tag number
 global.botname = 'QUEEN SHASHI MD' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = 'https://chat.whatsapp.com/LpldaiWVkCwKoQQmlq1Mbg' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "📁" //ur menu react emoji
 global.themeemoji = "📂" //ur theme emoji
